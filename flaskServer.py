@@ -9,8 +9,10 @@ import sys
 
 PORT=None
 if len(sys.argv) == 1:
+  HOST='127.0.0.1'
   PORT=5000
 else:
+  HOST='0.0.0.0'
   PORT=int(sys.argv[1])
 
 
@@ -33,5 +35,5 @@ def design1():
 
 
 if __name__ == "__main__":
-  app.run(port=PORT)
+  app.run(host=HOST, port=PORT)
 
