@@ -17,8 +17,7 @@ else:
   
 @app.route("/")
 def main():
-	# print render_template('index.html')
-	return render_template('main.html')
+  return render_template('main.html')
 
 if __name__ == "__main__":
   app.run(host=HOST, port=PORT)
