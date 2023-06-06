@@ -3,7 +3,9 @@
 
 A photo editor app that creates a "pictures within a picture" effect. Created by Ben Leibowitz-Lord and Sam Lobel. 
 
-![Painting](static/img/painting.png)
+<p align="center">
+  <img src="./static/img/painting.png" alt="Painting"/>
+</p>
 
 Hosted [here](https://prod.d2xi1g8s9e5en8.amplifyapp.com/): try it out!
 
