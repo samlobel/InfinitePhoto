@@ -7,7 +7,7 @@ A photo editor app that creates a "pictures within a picture" effect. Created by
   <img src="./static/img/painting.png" alt="Painting"/>
 </p>
 
-Hosted [here](https://prod.d2xi1g8s9e5en8.amplifyapp.com/): try it out!
+Hosted [here](https://dev7949.d8o47qyfyhjew.amplifyapp.com/): try it out!
 
 #### Resources Used
 * <http://www.geometrictools.com/Documentation/PerspectiveMappings.pdf>
